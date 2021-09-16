@@ -1,5 +1,0 @@
-#pragma once
-
-
-const char  version[] = "${${PROJECT_NAME}_VERSION}" ;
-const char  name_project[] = "@PROJECT_NAME@" ;
